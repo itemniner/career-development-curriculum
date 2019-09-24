@@ -35,10 +35,21 @@ Step 2: Read this post and watch this video to start building an understanding o
       
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
    * What is your greatest strength and how do you know?
+   - I would think my greatest strength is that I care about people. I've always done my best to help as much as I can. I think growing up with only my mom and sister my friends are like my family. I believe it's always a good thing to have a bit of empathy. 
+   
    * How do you work best?
+   - I think I work best hands-on. I've always been good with my hands and in mechanical areas. If I see how it's done I tend to catch on pretty quick. I also work best in positive environments. I think this promotes hard work and improves the quality of work.
+   
    * What is your greatest area of improvement?
+   - I think the greatest area of improvement is my motivation to read. I would love to be able to read a book cover to cover without getting bored. I'm usually a pretty active person so reading can get tedious for me. This is something i'm currently working on.
+   
    * How do you hope to maximize your strengths for your new career in software development?
+   - I hope to maximize my  strengths in my new career by doing my best to contribute to the community. I hope by sharing my knowledge and being helpful we can reach whatever goal our team sets faster or more eficatinty. This would also benefit the work environment and promote positivity. Hopefully creating a place I'd be excited to go to everyday. 
+   
    * How might knowing about your strengths and working preferences benefit you as a software developer? 
+   -Knowing my strengths I can implement those strengths in a positive way and also work to improve what my strengths are. This will also allow me to improve on areas that needs some more work. As a software developer I hope to use my strengths to contribute to the community. Knowing my working preferences I can be more selective when it comes to picking out where I would like to work. 
+
+ 
  
 **Capstone submission directions:**
 In a gist, please:
